@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balanced Search Tree Red Black", "Balanced Search Tree Red Black\Balanced Search Tree Red Black.csproj", "{E9B0CFC3-4082-4E0C-92E5-C23BCA690634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9B0CFC3-4082-4E0C-92E5-C23BCA690634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B0CFC3-4082-4E0C-92E5-C23BCA690634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B0CFC3-4082-4E0C-92E5-C23BCA690634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B0CFC3-4082-4E0C-92E5-C23BCA690634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
